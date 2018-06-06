@@ -1,5 +1,5 @@
 <?php
-
+include "includes/db.php";
 include "includes/header.php";
 include "includes/navigation.php";
 
@@ -88,8 +88,6 @@ include "includes/navigation.php";
 
 
 <?php
-
 include "includes/footer.php"
-
 ?>
 
